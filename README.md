@@ -205,6 +205,6 @@ Este proyecto está bajo la licencia [MIT](./LICENSE).
 
 <div align="center">
 
-**Desarrollado con ❤️ por [Arbolencio](https://github.com/Arbolencio)**
+**Desarrollado con ❤️ por [jmrodg8]([https://github.com/jmrodg8)**
 
 </div>
