@@ -1,0 +1,39 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Compiled / generated
+*.pyc
+__pycache__/
+*.class
+*.o
+*.so
+
+# Environment
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Database dumps (keep structure, ignore large dumps)
+*.dump
+*.sql.gz
+*.sql.zip
